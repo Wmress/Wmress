@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏾‍🎓 Studied Computer Science at the [University of Nebraska Lincoln](https://www.unl.edu)<br/><br>🎯 Passion for innovation with a mix of creativity<br>
+👨🏾‍🎓 Studing Computer Science at the [University of Nebraska Lincoln](https://www.unl.edu)<br/><br>🎯 Passion for innovation with a mix of creativity<br>
 
 
 ## 🌐 Socials:
