@@ -10,6 +10,11 @@ Studing Computer Science at the [University of Nebraska Lincoln](https://www.unl
 ---
 [![](https://visitcount.itsvg.in/api?id=Wmress&icon=0&color=1)](https://visitcount.itsvg.in)
 
+
+## LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ewolde?theme=dark&font=Baloo&ext=heatmap)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
